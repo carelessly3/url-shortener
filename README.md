@@ -20,7 +20,7 @@ Built as a learning project to explore **Go**, **HTTP servers**, **clean archite
 ### Run locally
 
 ```bash
-git clone https://github.com/<your-github-username>/url-shortener.git
+git clone https://github.com/carelessly3/url-shortener.git
 cd url-shortener
 go mod tidy
 go run ./cmd/server
